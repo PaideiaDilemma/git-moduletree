@@ -1,0 +1,4 @@
+#!/bin/sh
+
+# Requires python>=3.10
+git-moduletree-prototype.py "$@"
